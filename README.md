@@ -2,9 +2,8 @@
 # Introduction:
 This framework is designed to automate the functional testing of webapplication using Java, selenium and testNG and using maven as build management.
 ## Tools and Technologies:
-#Java as programming language
-#Selenium WebDriver: To automate browsers
-#TestNG: Testing framework
-Maven: Build management tool
-Google Chrome, Mozilla Firefox, or other supported browsers
-Extent report: for managing reports
+1. Java as programming language (using version jdk 11)
+2. Selenium Webdriver: to automate web browser
+3. TestNG: Testing Framework
+4. Maven: Build Management tool
+5. Extent report : For managing reports
